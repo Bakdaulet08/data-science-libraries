@@ -1,7 +1,7 @@
 import numpy as np
 
-arr = np.zeros((3,4))
-print(arr)
+zeros = np.zeros((3,4))
+print(zeros)
 
 ones = np.ones((4, 3))
 print(ones)
@@ -13,3 +13,4 @@ linspace = np.linspace(0, 10, 5)
 print(linspace)
 
 arange = np.arange(0, 10, 3)
+print(arange)
